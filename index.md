@@ -15,5 +15,8 @@
 ### Keras
 [https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
 
+### Model convertion
+[https://medium.com/analytics-vidhya/converting-a-custom-darknet-model-to-tensorflow-lite-ffdd48d58082](https://medium.com/analytics-vidhya/converting-a-custom-darknet-model-to-tensorflow-lite-ffdd48d58082)
+
 #### Do you have specific questions on how to use YoloV3?
 Feel free to tell me about your problem at contact@yolov3.dev
